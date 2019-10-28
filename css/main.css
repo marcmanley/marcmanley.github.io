@@ -75,7 +75,7 @@ body {
 
 .footer-container,
 .main aside {
-    padding-bottom: 20px;
+    margin-bottom: 20px;
 	border-top: 20px solid #e44d26;
 }
 
