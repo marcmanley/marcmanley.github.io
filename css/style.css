@@ -221,6 +221,10 @@ dd.email {
 	background: url(../media/imgs/email.png) no-repeat left; 
 }
 
+dd.github { 
+	background: utl(../media/imgs/github.png) no-repeat left; 
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 480px) {
