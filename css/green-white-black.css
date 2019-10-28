@@ -1,0 +1,120 @@
+/* header | background | type */
+
+body { 
+	background: #fff; 
+	color: #000; 
+    font-size: 135%;
+}
+
+h2 { 
+	font-size: 2.3em; 
+}
+
+h4 { 
+	font-size: 2em; 
+}
+
+h2, h3, h4 { 
+	color: #099; 
+}
+
+h3 { 
+    font-style: normal; 
+}
+
+a { 
+	font-size: inherit; 
+	color: #099; 
+    text-decoration: none;
+} 
+
+blockquote { 
+	background: rgb(201,201,245); 
+	margin: 0 0 15px 0;
+	padding: 20px; 
+	font-family: 'Signika', 'sans-serif';
+	font-style: normal;
+    font-size: 1.6em;
+}
+
+dt { 
+	color: #099; 
+}
+
+ol li { 
+    list-style: decimal; 
+}
+
+li { 
+    font-size: 120%; 
+    margin: 0 6% 1% 7.5%; 
+    padding: 0 3% 0 3%; 
+}
+
+strong { 
+    text-decoration: underline; 
+    color: #85200C;
+}
+
+.quran { 
+	color: #6e6ea3; 
+	text-transform: uppercase; 
+	font-size: 85%; 
+	font-weight: bold; 
+}
+
+.job h2 { 
+	margin: 0 0 10px 0; 
+}
+
+.color-band { 
+	height: 5px; 
+	background: #099;
+}
+
+.arabic {
+	direction: rtl;  /* Right to Left */
+	font-size: 2.3em;
+    font-weight: 300;
+	/* old style font-family: 'Thabit', 'Scheherazade', Arial; */
+	font-family: 'Droid Arabic Naskh', Arial; 
+	margin: 0 0 25px 0;
+	padding: 15px 30px 15px 30px; 
+	background: rgb(201, 245, 245);
+	border-bottom: 5px solid #000;     
+}
+
+.arabic-normal {
+	direction: rtl;  /* Right to Left */
+	font-size: 1.8em; 
+	/* old style font-family: 'Thabit', 'Scheherazade', Arial; */
+	font-family: 'Droid Arabic Naskh', Arial; 
+	margin: 0 0 25px 0; 
+}
+
+.arabic-header { 
+    margin: 0 0 15px 0; 
+    font-family: 'Droid Arabic Naskh', Arial; 
+    direction: rtl; 
+}
+
+.arabic-rtl { 
+    direction: rtl;
+}
+
+.indent { 
+	background: rgb(255, 209, 209); 
+	display: inline-block; 
+	margin: 0 0 10px 0; 
+	padding: 8px 16px 8px 16px;
+}
+
+.too-black-too-strong { 
+    font-weight: bolder; 
+    color: #000; 
+    text-decoration: none;
+}
+
+dd.indent { 
+	border-bottom: 3px solid #000; 
+}
