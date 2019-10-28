@@ -222,7 +222,7 @@ dd.email {
 }
 
 dd.github { 
-	background: utl(../media/imgs/github.png) no-repeat left; 
+	background: url(../media/imgs/github.png) no-repeat left; 
 }
 
 /* Media Queries */
