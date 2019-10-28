@@ -75,13 +75,13 @@ body {
 
 .footer-container,
 .main aside {
-    margin-bottom: 20px;
 	border-top: 20px solid #e44d26;
 }
 
 .header-container,
 .footer-container,
-.main aside {
+.main aside { 
+	margin-bottom: 20px;
     background: #f16529;
 }
 
