@@ -207,7 +207,7 @@ iframe.soundcloud { width: 100%; height: 600px; }
 	margin: 0 0 15px 0; 
 }
 
-dd.phone, dd.address, dd.email, dd.git, dd.twitter, dd.thegram { 
+dd.phone, dd.address, dd.email, dd.git, dd.twitter, dd.thegram, dd.middleground { 
 	padding: 0 0 0 25px; 
 }
 
@@ -233,6 +233,10 @@ dd.twitter {
 
 dd.thegram {
 	background: url(../media/imgs/instagram-white.png) no-repeat left; 
+}
+
+dd.middleground {
+	background: url(../media/imgs/middle-ground.png) no-repeat left; 
 }
 
 /* Media Queries */
