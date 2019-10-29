@@ -95,6 +95,10 @@ p strong {
 	text-decoration: none;
 }
 
+iframe[seamless] {
+  display: block;
+}
+
 #wrapper { 
 	width: 96%;	
 	max-width: 920px;
