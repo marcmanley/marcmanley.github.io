@@ -95,9 +95,7 @@ p strong {
 	text-decoration: none;
 }
 
-iframe[seamless] {
-  display: block;
-}
+iframe.soundcloud {  width: 100%;  height: 600px; } 
 
 #wrapper { 
 	width: 96%;	
