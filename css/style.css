@@ -211,7 +211,7 @@ iframe.soundcloud { width: 100%; height: 600px; }
 	margin: 0 0 15px 0; 
 }
 
-dd.phone, dd.address, dd.email, dd.git, dd.twitter, dd.thegram, dd.middleground, dd.me2 { 
+dd.phone, dd.address, dd.email, dd.git, dd.twitter, dd.thegram, dd.middleground, dd.me2, dd.apple { 
 	padding: 0 0 0 25px; 
 }
 
@@ -245,6 +245,10 @@ dd.middleground {
 
 dd.me2 {
 	background: url(../media/imgs/marcmanley-logo-m-5.png) no-repeat left; 
+}
+
+dd.apple {
+	background: url(../media/imgs/podcast.png) no-repeat left; 
 }
 
 /* Media Queries */
