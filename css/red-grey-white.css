@@ -11,9 +11,8 @@ a {
 }
 
 .color-band { 
-	height: 10px; 
+	height: 8px; 
 	background: rgb(251, 2, 22);
-	border-bottom: 1px #fff solid;
 }
 
 dt { 
