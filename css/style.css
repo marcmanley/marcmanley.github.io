@@ -7,6 +7,8 @@
 	padding: 0; 
 }
 
+/* Universal Styles */
+
 body { 
 	/* font-family: 'Bebas', Arial; */
 	height:100%;
@@ -101,12 +103,16 @@ p strong {
 
 iframe.soundcloud { width: 100%; height: 600px; } 
 
+/* ID's */
+
 #wrapper { 
 	width: 96%;	
 	max-width: 920px;
 	margin: auto;
 	padding: 2%;
 }
+
+/* Classes */
 
 .qualifications, .expertise, .pro, .job { 
 	margin: 20px 0 0 0; 
