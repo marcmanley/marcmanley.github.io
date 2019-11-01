@@ -19,6 +19,11 @@ dt {
 	color: rgb(103, 158, 179); 
 }
 
+.job-skills-tags span {
+	color: rgb(209, 175, 163);
+	background: rgb(103, 158, 179); 
+}
+
 .arabic {
 	direction: rtl;  /* Right to Left */
 	font-size: 2em; 
