@@ -10,13 +10,15 @@ a {
 	color: rgb(251, 2, 22); 
 }
 
+dt { 
+	color: rgb(251, 2, 22); 
+}
+
+#bizcard { background: #454545; color: #fff; }
+
 .color-band { 
 	height: 8px; 
 	background: rgb(251, 2, 22);
-}
-
-dt { 
-	color: rgb(251, 2, 22); 
 }
 
 .arabic {
