@@ -1,2 +1,3 @@
 # marcmanley.github.io
-A test space for some webdev
+
+This is my portfolio site for GitHub.
