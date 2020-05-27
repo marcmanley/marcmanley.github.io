@@ -1,0 +1,137 @@
+/* header | background | type */
+
+body {
+	background: #fff;
+	color: #000;
+  font-size: 135%;
+}
+
+h1 {
+	font-size: 30px;
+	font-family: ivymode,Arial,sans-serif;
+	font-weight: 600;
+	font-style: normal;
+}
+
+h2 {font-size: 22.5px;}
+
+h3 {font-size: 16px;}
+
+h4 {font-size: 12px;}
+
+h2, h3, h4 {color: #099;}
+
+p {font-size: 100%;}
+
+a {
+	font-size: inherit;
+	color: #099;
+  text-decoration: none;
+}
+
+blockquote {
+	background: rgb(201,201,245);
+	margin: 0 0 15px 0;
+	padding: 20px;
+	font-family: 'Signika', 'sans-serif';
+	font-style: normal;
+  font-size: 1.6em;
+}
+
+dt {
+	color: #099;
+}
+
+ol li {
+    list-style: decimal;
+}
+
+li {
+    font-size: 120%;
+    margin: 0 6% 1% 7.5%;
+    padding: 0 3% 0 3%;
+}
+
+strong {
+    text-decoration: underline;
+    color: #85200C;
+}
+
+img { max-width: 100%; height: auto; }
+
+.color-band {
+	height: 5px;
+	background: #099;
+}
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.quran {
+	color: #6e6ea3;
+	text-transform: uppercase;
+	font-size: 85%;
+	font-weight: bold;
+}
+
+/* .job h2 {
+	margin: 0 0 10px 0;
+} */
+
+/* .arabic {
+	direction: rtl;
+	font-size: 2.3em;
+  font-weight: 300;
+	font-family: 'Droid Arabic Naskh', Arial;
+	margin: 0 0 25px 0;
+	padding: 15px 30px 15px 30px;
+	background: rgb(201, 245, 245);
+	border-bottom: 5px solid #000;
+}  */
+/* old style font-family: 'Thabit', 'Scheherazade', Arial; */
+
+/* .arabic-normal {
+	direction: rtl;
+	font-size: 1.8em;
+	font-family: 'Droid Arabic Naskh', Arial;
+	margin: 0 0 25px 0;
+} */
+/* old style font-family: 'Thabit', 'Scheherazade', Arial; */
+
+/* .arabic-header {
+    margin: 0 0 15px 0;
+    font-family: 'Droid Arabic Naskh', Arial;
+    direction: rtl;
+}
+
+.arabic-rtl {
+    direction: rtl;
+} */
+
+/* .indent {
+	background: rgb(255, 209, 209);
+	display: inline-block;
+	margin: 0 0 10px 0;
+	padding: 8px 16px 8px 16px;
+}
+
+.too-black-too-strong {
+    font-weight: bolder;
+    color: #000;
+    text-decoration: none;
+}
+
+dd.indent {
+	border-bottom: 3px solid #000;
+} */
