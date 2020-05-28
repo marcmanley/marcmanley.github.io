@@ -235,7 +235,7 @@ dd.twitter {
 
 dd.middleground {
 	background: url(../media/imgs/middle-ground.png) no-repeat left;
-	text-transform: uppercase;
+	text-transform: capitalize;
 }
 
 dd.apple {
